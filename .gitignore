@@ -1,8 +1,4 @@
 # Ignorar arquivos gerados pelo Terraform
-.terraform/
-terraform.tfstate
-terraform.tfstate.backup
-*.tfvars
 /.terraform/*
 terraform.tfstate*
 .terraform*
